@@ -124,7 +124,7 @@ export default function UNSWOpenDay() {
               </div>
 
               <div className="border-l-4 border-blue-200 bg-blue-50 pl-4 py-3 mb-3">
-                <p className="text-xs text-gray-500">12:00 PM - 1:30 PM</p>
+                <p className="text-xs text-gray-500">12:00 PM - 1:00 PM</p>
                 <p className="font-medium">
                   Employability Masterclass{" "}
                   <span className="text-sm text-gray-500">
@@ -152,12 +152,12 @@ export default function UNSWOpenDay() {
               </div>
 
               <div className="border-l-4 border-indigo-200 bg-indigo-50 pl-4 py-3 mb-3">
-                <p className="text-xs text-gray-500">1:00 PM - 2:00 PM</p>
+                <p className="text-xs text-gray-500">1:30 PM - 2:00 PM</p>
                 <p className="font-medium">Presentation: Applying to UNSW</p>
               </div>
 
               <div className="border-l-4 border-indigo-200 bg-indigo-50 pl-4 py-3 mb-3">
-                <p className="text-xs text-gray-500">2:00 PM - 3:00 PM</p>
+                <p className="text-xs text-gray-500">2:30 PM - 3:00 PM</p>
                 <p className="font-medium">
                   Presentation: Sydney – Your new home
                 </p>
