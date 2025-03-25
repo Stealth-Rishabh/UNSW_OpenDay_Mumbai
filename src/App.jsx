@@ -85,9 +85,6 @@ export default function UNSWOpenDay() {
                   </p>
                 </div>
               </div>
-              <button className="bg-blue-600 text-white px-4 py-1.5 rounded text-sm font-medium">
-                Follow
-              </button>
             </div>
 
             {/* Date and Time */}
