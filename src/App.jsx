@@ -87,15 +87,6 @@ export default function UNSWOpenDay() {
               </div>
             </div>
 
-            {/* Date and Time */}
-            <div className="mb-6">
-              <h2 className="text-lg font-bold mb-2">Date and time</h2>
-              <div className="flex items-start gap-3">
-                <Calendar className="w-5 h-5 text-gray-500 mt-0.5" />
-                <p className="text-sm">Sunday, April 13 · 12 - 4pm IST</p>
-              </div>
-            </div>
-
             {/* Location */}
             <div className="mb-6">
               <h2 className="text-lg font-bold mb-2">Location</h2>
@@ -103,12 +94,18 @@ export default function UNSWOpenDay() {
                 <MapPin className="w-5 h-5 text-gray-500 mt-0.5" />
                 <div>
                   <p className="text-sm font-medium">
-                    The Lalit Mumbai - Regent Banquet Hall
-                  </p>
-                  <p className="text-sm text-gray-600">
-                    Andheri-Kurla Road, Mumbai, 400 059
+                    The Leela Hotel, Sahar Airport Road, Mumbai
                   </p>
                 </div>
+              </div>
+            </div>
+
+            {/* Date and Time */}
+            <div className="mb-6">
+              <h2 className="text-lg font-bold mb-2">Date and time</h2>
+              <div className="flex items-start gap-3">
+                <Calendar className="w-5 h-5 text-gray-500 mt-0.5" />
+                <p className="text-sm">Sunday, April 13 · 12 - 4pm IST</p>
               </div>
             </div>
 
