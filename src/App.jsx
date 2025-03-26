@@ -230,14 +230,14 @@ export default function UNSWOpenDay() {
         {/* Sticky ticket section */}
         <div className="w-60 h-fit sticky top-6">
           <div className=" bg-gray-100 rounded-lg p-2 shadow-sm text-center">
-            <h3 className="text-xl text-slate-600 mb-4">Register now</h3>
+            <h3 className="text-xl text-slate-600 mb-4">Free</h3>
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLSehT0OPa_2j9zTCLOxkpjEIu-XadfR1VaLjITl1J0Uz5pm4_g/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full bg-orange-600 text-white py-3 px-4 rounded-lg font-medium hover:bg-orange-700 transition-colors"
             >
-              Click Here
+              Get Tickets
             </a>
           </div>
         </div>
